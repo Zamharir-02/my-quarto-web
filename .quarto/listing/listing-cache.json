@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts"
+    ],
+    "other.qmd": [
+      "posts"
+    ],
+    "paper.qmd": [
+      "posts"
+    ],
+    "research.qmd": [
+      "posts"
+    ]
+  }
+}

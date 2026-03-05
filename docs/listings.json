@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/movie.html",
+      "/posts/minyak.html",
+      "/posts/mangrove.html",
+      "/posts/pisang.html",
+      "/posts/nyamuk.html"
+    ]
+  },
+  {
+    "listing": "/paper.html",
+    "items": [
+      "/posts/paper4.html",
+      "/posts/paper3.html",
+      "/posts/paper2.html",
+      "/posts/paper1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/paper4.html",
+      "/posts/medium.html",
+      "/posts/movie.html",
+      "/posts/paper3.html",
+      "/posts/dlh.html",
+      "/posts/paper2.html",
+      "/posts/minyak.html",
+      "/posts/mangrove.html",
+      "/posts/paper1.html",
+      "/posts/pisang.html",
+      "/posts/nyamuk.html"
+    ]
+  },
+  {
+    "listing": "/other.html",
+    "items": [
+      "/posts/medium.html",
+      "/posts/dlh.html"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: "Research Projects"
+listing:
+  contents: posts
+  type: table  # 'table' looks very professional for research/papers
+  include:
+    categories: "Research" # Only shows posts tagged as 'Research'
+  sort: "date desc"
+---

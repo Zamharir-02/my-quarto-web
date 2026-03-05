@@ -1,0 +1,54 @@
+{
+  "about.qmd": {
+    "about.html": "8e9ec1bd",
+    "about.tex": "6fe0c3cb"
+  },
+  "index.qmd": {
+    "index.html": "88112d49"
+  },
+  "posts/project-1/project-1.qmd": {
+    "project-1.html": "18c4c779"
+  },
+  "other.qmd": {
+    "other.html": "92921744"
+  },
+  "paper.qmd": {
+    "paper.html": "c99f4519"
+  },
+  "research.qmd": {
+    "research.html": "9c8beb79"
+  },
+  "posts/nyamuk.qmd": {
+    "nyamuk.html": "74e705f8"
+  },
+  "posts/pisang.qmd": {
+    "pisang.html": "6f3e5d17"
+  },
+  "posts/mangrove.qmd": {
+    "mangrove.html": "fcf8ec88"
+  },
+  "posts/paper1.qmd": {
+    "paper1.html": "c662d7b7"
+  },
+  "posts/paper2.qmd": {
+    "paper2.html": "16e871e9"
+  },
+  "posts/paper3.qmd": {
+    "paper3.html": "144674b1"
+  },
+  "posts/paper4.qmd": {
+    "paper4.html": "40c0ecb4"
+  },
+  "posts/medium.qmd": {
+    "medium.html": "98b3d7ac"
+  },
+  "posts/minyak.qmd": {
+    "minyak.html": "f947b73b"
+  },
+  "posts/movie.qmd": {
+    "movie.html": "5dc28554"
+  },
+  "posts/dlh.qmd": {
+    "dlh.html": "c08c6c9e"
+  }
+}

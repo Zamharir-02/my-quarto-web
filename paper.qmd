@@ -1,0 +1,9 @@
+---
+title: "Published Papers"
+listing:
+  contents: posts
+  type: table  # 'table' looks very professional for research/papers
+  include:
+    categories: "Paper" # Only shows posts tagged as 'Research'
+  sort: "date desc"
+---

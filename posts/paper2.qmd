@@ -1,0 +1,22 @@
+---
+title: "Effect of Musa paradisiaca L. var. Kayu Unripe Fruit Ethanol Extract on Leukocyte Differentiation and Skin Histology of Mus musculus "
+description: "Second Paper."    
+author: "Muhammad Zamharir"    
+date: "2025-04-02"    
+categories: [Paper]    
+image: "ga2.jpg"    
+---
+
+## Abstract
+
+The unripe fruit of the pisang kayu (Musa paradisiaca L. Var. Kayu) has been utilized to treat diarrheal illnesses traditionally by the people of Senduro Village, Lumajang, East Java, Indonesia. Previous studies have shown that ethanol extracts of unripe banana fruit have antidiarrheal effects. The opportunity to utilize the ethanol extract of unripe fruit of pisang kayu as a herbal medicine is quite large, but this herbal medicine must be developed further to meet safety requirements. Allergy tests are conducted to determine the safety of drug candidates because allergies can cause angioedema on the skin as well as an increase in eosinophils and basophils in differential leukocyte counts. Therefore, this study aims to conduct an allergy test by looking at the effect of unripe fruit ethanol extract of pisang kayu (M. paradisiaca L. Var. Kayu) on skin histology and differential leukocytes of Mus musculus. The allergy test was conducted acutely and subchronically. The dorsal skin was then made into histological preparations. Mice blood was taken from the tail, and the leukocyte differential test was conducted. The results showed that unripe fruit ethanol extract of pisang kayu (M. paradisiaca L. Var. Kayu) did not cause allergy. This can be seen from the absence of signs of reddish rash and angioedema in the observation of the morphology of the skin of Mus musculus. In addition, the absence of allergies was also seen from the absence of significant differences in all treatment groups (p \> 0.05) seen from the thickness of the epidermis, the thickness of the dermis, and the presence or absence of hyperplasia. Furthermore, the lack of significant differences between treatment groups (p \> 0.05) indicated the absence of allergy and the number of differential leukocytes, which were in the normal category as an indicator of allergy in all treatment groups.
+
+## Link 🔗
+
+The paper can be read with the link below:
+
+[The paper is here 🙌🏼](https://tis.wu.ac.th/index.php/tis/article/view/9550)
+
+## Records🖼️
+
+![](Paper%202.jpg){fig-align="center"}

@@ -1,0 +1,24 @@
+---
+title: "Muhammad Zamharir"
+about: 
+  template: trestles
+  image: quarto profile.jpg
+  image-width: 8cm
+  image-shape: round
+  links:
+    - icon: medium
+      text: medium
+      href: https://medium.com/@zamharirrojafi
+    - icon: linkedin
+      text: linkeiIn
+      href: www.linkedin.com/in/zamharir-rojafi-898b4817b
+    - icon: email
+      text: email
+      href: mailto:zamharirrojafi@gmail.com
+---
+
+Aspiring immunology researcher and biology graduate from Institut Teknologi Sepuluh Nopember (ITS), with a strong foundation in herbal medicine development and drug safety testing. Experienced in analyzing immune responses with a particular focus on drug-induced allergic reactions. Driven by a deep interest in drug discovery and the study of metabolic diseases, I aim to bridge traditional medicine insights with modern immunological approaches to advance safer and more effective therapeutic innovations.
+
+## Education
+
+Sepuluh Nopember Institute of Technology (ITS) \| Surabaya, Indonesia Bsc in Biology \| Sept 2020 - Sept 2024

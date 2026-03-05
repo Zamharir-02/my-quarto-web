@@ -1,0 +1,16 @@
+---
+title: "Mangrove Youtube Documentation"  
+description: "The brief records of the mangrove carbon stock team"  
+author: "Muhammad Zamharir"      
+date: "2025-10-10"      
+categories: [Research]      
+image: "movie.png"      
+---
+
+## What's New?
+
+When science meets adventure, you get the Mangrove Carbon Squad!.Here I presented to you the video documentation of the mangrove carbon stock team doing its action in one of the sites in Pamurbaya (east coast of Surabaya).
+
+## Account Link🔗
+
+[The video is here 🙌🏼](https://www.youtube.com/watch?v=x55utK_fPeE)

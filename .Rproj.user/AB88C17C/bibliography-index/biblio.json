@@ -1,0 +1,26 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Zamharir",
+                    "given": "Muhammad"
+                }
+            ],
+            "container-title": "Personal Projects",
+            "id": "sample2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Biology portfolio and data science",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

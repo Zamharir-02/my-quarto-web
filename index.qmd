@@ -1,0 +1,13 @@
+---
+title: "Welcome 👋"
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  image-height: 200px
+  image-placeholder: no_image_available.jpg
+  max-description-length: 100
+  date-format: medium
+---
+
+Welcome to my personal memoir space! Here, I share my latest projects, reflections, and articles.

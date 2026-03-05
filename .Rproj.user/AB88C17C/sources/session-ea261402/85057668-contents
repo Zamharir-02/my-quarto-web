@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zam's"
+  search: 
+    location: navbar
+    type: overlay
+    limit: 10
+  navbar:
+    background: primary
+    right:
+      - href: index.qmd
+        text: Home
+      - text: Journey
+        menu: 
+          - href: research.qmd
+            text: Research Projects
+          - href: paper.qmd
+            text: Papers
+          - href: other.qmd
+            text: Other
+      - href: about.qmd
+        text: About
+  back-to-top-navigation: true
+  page-footer: 
+    right: "Copyright 2024, Muhammad Zamharir Rojafi" 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+#    html-math-method: katex
+#  pdf: 
+#    documentclass: report
+#    margin-left: 30mm
+#    margin-right: 30mm
+
+bibliography: references.bib
+editor: visual

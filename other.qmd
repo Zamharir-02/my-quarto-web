@@ -1,0 +1,9 @@
+---
+title: "Others"
+listing:
+  contents: posts
+  type: table  # 'table' looks very professional for research/papers
+  include:
+    categories: "Other" # Only shows posts tagged as 'Research'
+  sort: "date desc"
+---
