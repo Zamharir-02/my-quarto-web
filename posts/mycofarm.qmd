@@ -1,5 +1,5 @@
 ---
-title: "First Competition as a not-so-special college student"   
+title: "Stepping Into My First Competition"   
 description: "First triumph 🏆"       
 author: "Muhammad Zamharir"       
 date: "2024-01-09"       
@@ -21,8 +21,8 @@ The hard work paid off in a way I never expected for my first time on the compet
 
 ## Memories🖼️
 
-![Figure 1. The prototype](posts/WhatsApp Image 2026-03-06 at 15.51.12 (1).jpeg){fig-align="center"}
+![Figure 1. The prototype](WhatsApp Image 2026-03-06 at 15.51.12 (1).jpeg){fig-align="center"}
 
-![Figure 2. Online presentation](posts/Penyerahan Bukti_Mycofarm.jpg){fig-align="center"}
+![Figure 2. Online presentation](Penyerahan Bukti_Mycofarm.jpg){fig-align="center"}
 
-![Figure 3. The reward](posts/OBC_Certificate_Third Winner_Muhammad Zamharir Rojafi_page-0001.jpg){fig-align="center"}
+![Figure 3. The reward](OBC_Certificate_Third Winner_Muhammad Zamharir Rojafi_page-0001.jpg){fig-align="center"}

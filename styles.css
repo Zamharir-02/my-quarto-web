@@ -1,1 +1,16 @@
 /* css styles */
+/* This targets the root of the website */
+:root {
+  --bs-body-font-family: 'Inter', sans-serif;
+  --bs-heading-font-family: 'Georgia', serif;
+}
+
+/* This forces titles to stay visible in both modes */
+h1, h2, h3, h4, .title {
+  color: var(--bs-heading-color) !important;
+}
+
+/* This forces body text to stay visible in both modes */
+p, li, span {
+  color: var(--bs-body-color) !important;
+}
