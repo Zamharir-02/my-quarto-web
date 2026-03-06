@@ -1,0 +1,28 @@
+---
+title: "First Competition as a not-so-special college student"   
+description: "First triumph 🏆"       
+author: "Muhammad Zamharir"       
+date: "2024-01-09"       
+categories: [Other]       
+image: "mycofarm.jpeg"       
+---
+
+## The Story
+
+Hi peeps 🙋🏼‍♂️
+
+On this page, I want to share about one of the memorable moment that is happen in my second year, my first ever competition 🏆.
+
+My first-ever college competition was a defining moment for me as my team and I participated in OBC 2022 with our project, Mycofarm.id. This project is comes from the problem regarding how people loves to consume mushroom but unwilling to cultivate them due to barriers like limited space, lack of technical insight, and unsuitable environments. To address this, we developed the MycoFarm Kit, a user-friendly, "Set, Grow, Harvest" cultivation kit designed to make mushroom growing accessible for the busiest people in urban area.
+
+In this team, I was in charge for the marketing, which something very unexpected because of how tiny knowledge I know about marketing. However, this opportunity turns into something fun since I can study something new and finally had a real-world reason to dust off my CorelDRAW skill on vector.
+
+The hard work paid off in a way I never expected for my first time on the competitive event. Witnessing there as we were announced as the Gold Medalists and 3rd Place Winners was surreal. This competition was an opportunity to integrate biotechnology, business, and social impact. We envisioned Mycofarm.id not just as a product for mushroom foodies in Indonesia, but as a community development tool that collaborated with local farmers to source materials.
+
+## Memories🖼️
+
+![Figure 1. The prototype](posts/WhatsApp Image 2026-03-06 at 15.51.12 (1).jpeg){fig-align="center"}
+
+![Figure 2. Online presentation](posts/Penyerahan Bukti_Mycofarm.jpg){fig-align="center"}
+
+![Figure 3. The reward](posts/OBC_Certificate_Third Winner_Muhammad Zamharir Rojafi_page-0001.jpg){fig-align="center"}
